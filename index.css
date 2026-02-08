@@ -73,6 +73,9 @@ body{
     justify-content: center;
     gap: 13px;
 }
+.hero-top h3{
+    text-align:center;
+}
 .main-view>.box:hover{
     transform: translate(1px,-4px);
     transition: transform 1s ease;
@@ -243,6 +246,7 @@ body{
     height:168px;
 }
 }
+
 
 
 
