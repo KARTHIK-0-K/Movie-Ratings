@@ -76,7 +76,7 @@ body{
 .hero-content{
     display: flex;
     flex-wrap: wrap;
-    gap:60px;
+    gap:10vw;
 }
 .hero-content video{
     width:1000px;
@@ -197,6 +197,11 @@ body{
     text-decoration: none;
     color: white;
 }
+    .hero-content video{
+    width:310px;
+    height: 210px;
+    }
 }
+
 
 
